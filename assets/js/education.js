@@ -5,14 +5,9 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "AI for Everyone: Master the Basics",
-    cardImage: "assets/images/education-page/edx.png",
-    moocLink: "https://www.coursera.org/browse/data-science",
-  },
-  {
-    title: "ANSYS Training: Analysis on 3D Models by ANSYS Workbench",
-    cardImage: "assets/images/education-page/im.png",
-    moocLink: "https://www.learnmall.in/cert/NIE173801",
+    title: "BREEAM Foundations",
+    cardImage: "assets/images/education-page/bre.svg",
+    moocLink: "assets/docs/BREEAM.pdf",
   },
   {
     title: "Specialization in Python",
