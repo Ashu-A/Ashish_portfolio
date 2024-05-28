@@ -10,14 +10,29 @@ const techStack = [
     langDesc: "<li>Dynamo BIM is a visual programming tool that allows users to create custom workflows and automate tasks in building information modeling (BIM) software.</li>",
   },
   {
+    langImage: "assets/images/techstack-page/Fuzor.png",
+    langName: "Fuzor",
+    langDesc: "<li>Fuzor is a software platform that integrates building information modeling (BIM) with virtual reality (VR) and augmented reality (AR) to enhance design visualization, project coordination, and construction planning.</li>",
+  },
+  {
+    langImage: "assets/images/techstack-page/alice.png",
+    langName: "Alice",
+    langDesc: "<li>ALICE is the world's first construction optioneering platform that helps GCs to easily create, explore, and update construction schedules that reduce risk while cutting construction costs and build time.</li>",
+  },
+  {
+    langImage: "assets/images/techstack-page/Manufacton.png",
+    langName: "Manufacton",
+    langDesc: "<li>ViZZ Technologies creates advanced technologies for the construction and manufacturing industries. Their main product, Manufacton, uses digitization, AI, and visualization to streamline construction processes, making projects faster, cheaper, better, and greener.</li>",
+  },
+  {
     langImage: "assets/images/techstack-page/revit.png",
     langName: "Revit",
     langDesc: "<li>Revit is a popular BIM software developed by Autodesk that enables architects, engineers, and construction professionals to design, model, and collaborate on building projects in a 3D environment.</li>",
   },
   {
-    langImage: "assets/images/techstack-page/css.png",
-    langName: "Cascading Style Sheets",
-    langDesc: "<li>Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML</li>",
+    langImage: "assets/images/techstack-page/irisvr.png",
+    langName: "IrisVR Prospect",
+    langDesc: "<li>IrisVR Prospect is a virtual reality software designed for the architecture, engineering, and construction industries. It allows users to immerse themselves in 3D models, facilitating design reviews, coordination, and collaboration, enhancing project visualization and decision-making.</li>",
   },
   {
     langImage: "assets/images/techstack-page/html.png",
