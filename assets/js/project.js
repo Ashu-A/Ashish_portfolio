@@ -6,6 +6,24 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "AEC ChatBot",
+    cardImage: "assets/images/project-page/aecbot.png",
+    description: "My personal website, offering real-time model viewing and seamless data extraction services tailored for AEC (Architecture, Engineering, and Construction) professionals worldwide.",
+    // tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    tagimg: "",
+    Previewlink: "",
+    Githublink: "",
+  },
+  {
+    title: " AEC Global Teamwork Program—Stanford University,USA",
+    cardImage: "assets/images/project-page/AEC.jpg",
+    description: "Participated in a collaborative project with students from diverse AEC disciplines worldwide. Under the mentorship of industry experts from different countries, developed innovative project strategies, gaining valuable global insights into AEC practices and teamwork dynamics. Additionally, I independently developed a website facilitating data extraction and easy collaboration for AEC professionals.",
+    // tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    tagimg: "",
+    Previewlink: "",
+    Githublink: "",
+  },
+  {
     title: "ASCE-Concrete Canoe",
     cardImage: "assets/images/project-page/asce.png",
     description: "The team bagged All India 2nd Rank at the national round of World Wide renowned Concrete Canoe Competition of ASCE in March 2022",
