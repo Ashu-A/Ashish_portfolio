@@ -5,25 +5,44 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Construction Manager",
+    cardImage: "assets/images/experience-page/pbl.jpeg",
+    place: "PBL Lab - Stanford University",
+    time: "",
+    desp: "<li>Stanford's PBL Lab is renowned for its innovative research and curriculum in construction and \n" +
+        "engineering. </li>" +
+        "<li>Led technology and BIM implementation.</li>" +
+        "<li>Managed 3D scheduling, logistic planning, prefab construction, and clash detection. </li>" +
+        "<li>Utilised VR technologies for enhanced construction visualization.  </li>"+
+        "<li>Developed a website for data extraction, real-time model viewing, collaboration on Revit models, and \n" +
+        "chat functionality integrated with model data. </li>",
+  },
+    {
     title: "Associate Consultant in Smart Integration (EDI)",
     cardImage: "assets/images/experience-page/Bcone.png",
     place: "Bristlecone",
     time: "",
-    desp: "<li>Technical expertise in Smart Integration (EDI) technologies.</li><li>Strong communication skills with clients.</li><li>Effective problem-solving abilities as part of a team</li>",
+    desp: "<li>Bristlecone, a leader in AI-powered application transformation services for the digital supply chain, \n" +
+        "empowers customers with speed, visibility, automation, and resiliency. </li><li>Optimised EDI processes with cross-functional teams.</li><li>Implemented AI-driven solutions for supply chain visibility and automation.</li>",
   },
   {
     title: "Structural Engineer",
     cardImage: "assets/images/experience-page/dar.png",
     place: "Dar Al-Handasah",
     time: "",
-    desp: "<li>Proficient in structural analysis software such as ETABS, SAFE, SAP2000, and STAAD.Pro.</li><li>Effective project management skills working with cross-functional teams to ensure timely and budget-friendly delivery.</li><li>Strong technical expertise in structural engineering and knowledge of design codes and standards.</li>",
+    desp: "<li>Dar Al-Handasah is a global leader in design, planning, engineering, sustainability consulting, digital \n" +
+        "solutions, and project management. </li><li>Contributed to the extension of the Dubai Mall parking area, applying advanced structural engineering \n" +
+        "techniques to enhance project efficiency and support its successful completion. </li><li>Collaborated with multidisciplinary teams to ensure project quality and adherence to timelines. </li>",
   },
   {
     title: "Jr. Site Engineer",
     cardImage: "assets/images/experience-page/sara.png",
     place: "Sarswati Techinfra.pvt.ltd",
     time: "",
-    desp: "<li>Strong technical knowledge in civil engineering and construction processes and materials.</li><li>Effective communication skills with contractors, subcontractors, and clients to ensure successful completion of construction projects.</li>",
+    desp: "<li>Saraswati Techinfra Pvt. Ltd., specializing in Mechanical, Instrumentation, and Civil engineering. Known \n" +
+        "for quality erection, testing, and commissioning of columns, vessels, furnaces, and piping systems.</li>" +
+        "<li>Successfully coordinated construction activities, contributing to the timely completion of projects. </li>"+
+        "<li>Maintained rigorous quality control measures to uphold project standards and client expectations. </li>",
   },
 ];
 
