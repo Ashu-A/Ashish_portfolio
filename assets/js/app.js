@@ -124,8 +124,8 @@ let footer = $(`
     </div>
     <div class="navbar-center">
       <h4 style="color: red;">Ashish Ranjan</h4>
-      <p><i class="fa fa-phone"></i> +91 7646022291</p>
-      <p><i class="fa fa-envelope"></i> Ashishran007@gmail.com</p>
+      <p><i class="fa fa-phone"></i> +44 7407530622</p>
+      <p><i class="fa fa-envelope"></i> Ar7ashish008@gmail.com</p>
     </div>
 
     <style>
