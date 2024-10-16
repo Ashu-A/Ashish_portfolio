@@ -5,6 +5,14 @@ const projectcards = document.querySelector(".projectcards");
 
 // Array of object for projects
 const projects = [
+{
+    title: "RevitEase",
+    cardImage: "assets/images/project-page/RevitEase.png",
+    description: "A user-friendly add-in I developed to enhance and automate Revit workflows.",
+    tagimg: "",
+    Previewlink: "https://www.linkedin.com/posts/ashu-ashish_revit-bim-aec-activity-7251834288042569730-JDmu?utm_source=share&utm_medium=member_desktop",
+    Githublink: "",
+  },
   {
     title: "AEC ChatBot",
     cardImage: "assets/images/project-page/aecbot.png",
