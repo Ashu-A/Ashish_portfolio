@@ -11,7 +11,6 @@ const projects = [
     description: "A user-friendly add-in I developed to enhance and automate Revit workflows.",
     tagimg: "",
     Previewlink: "https://www.linkedin.com/posts/ashu-ashish_revit-bim-aec-activity-7251834288042569730-JDmu?utm_source=share&utm_medium=member_desktop",
-    Githublink: "",
   },
   {
     title: "AEC ChatBot",
@@ -28,8 +27,7 @@ const projects = [
     description: "Participated in a collaborative project with students from diverse AEC disciplines worldwide. Under the mentorship of industry experts from different countries, developed innovative project strategies, gaining valuable global insights into AEC practices and teamwork dynamics. Additionally, I independently developed a website facilitating data extraction and easy collaboration for AEC professionals.",
     // tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     tagimg: "",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://www.youtube.com/watch?v=iThhtu4cOrs&feature=youtu.be",
   },
   {
     title: "ASCE-Concrete Canoe",
@@ -37,8 +35,7 @@ const projects = [
     description: "The team bagged All India 2nd Rank at the national round of World Wide renowned Concrete Canoe Competition of ASCE in March 2022",
     // tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     tagimg: "",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://drive.google.com/file/d/1jFZZFlQ_zaYctP49uBl9Ss0wKV4ql66W/view?usp=sharing",
   },
   {
     title: "Land cover change monitoring by the aid of satellite imagery for analysis of urbanization impact on water quality",
