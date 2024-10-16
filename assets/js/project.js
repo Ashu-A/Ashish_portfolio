@@ -11,8 +11,8 @@ const projects = [
     description: "My personal website, offering real-time model viewing and seamless data extraction services tailored for AEC (Architecture, Engineering, and Construction) professionals worldwide.",
     // tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     tagimg: "",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://www.linkedin.com/posts/ashu-ashish_bim-speckle-digitaltwin-activity-7247669164960616448-U9Pp?utm_source=share&utm_medium=member_desktop",
+    Githublink: "https://github.com/Ashu-A/AECBOT.git",
   },
   {
     title: " AEC Global Teamwork Program—Stanford University,USA",
